@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.hypothesis/
+.schemathesis/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+junit.xml
+out/
+*.db
+*.sqlite3
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
