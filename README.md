@@ -1,5 +1,7 @@
 # Secure URL Shortener API: FastAPI, auth, rate limiting, OWASP-mapped tests
 
+[![CI](https://github.com/hustlerx01/secure-shortener/actions/workflows/ci.yml/badge.svg)](https://github.com/hustlerx01/secure-shortener/actions/workflows/ci.yml)
+
 > **Lab project.** A deliberately small codebase (about 250 lines) where every security control has a test named after its OWASP Top 10 (2021) category.
 
 ## Problem
